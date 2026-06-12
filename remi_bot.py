@@ -34,7 +34,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 #  ⚙️  CONFIGURATION — À REMPLIR
 # ================================================================
 
-TELEGRAM_TOKEN   = "7976353137:AAHTDvUjtnWOdsxym433pU0ja-Hc8jS-2Aw"      # Ex: 7412345678:AAFxxx...
+TELEGRAM_TOKEN   = "7976353137:AAE9OOq-U4So0mOLEzFiAqkw-l_g2zjVfGU"      # Ex: 7412345678:AAFxxx...
 TELEGRAM_CHAT_ID = "8847106612"   # Ex: 123456789
 
 # Fuseau horaire (pour les planifications)
